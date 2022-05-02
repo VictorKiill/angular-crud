@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.49
+    },
+    {
+      "id": 2,
+      "name": "Bola Munckey",
+      "price": 199.99
+    },
+    {
+      "id": 3,
+      "name": "Pecina Roza",
+      "price": 12.34
+    },
+    {
+      "name": "Culher",
+      "price": 35.53,
+      "id": 4
+    }
+  ]
+}
